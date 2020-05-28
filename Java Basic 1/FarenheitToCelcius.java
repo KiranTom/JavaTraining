@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Temperature{
+class FarenheitToCelcius{
 
 	public static void main (String[] args){
 
