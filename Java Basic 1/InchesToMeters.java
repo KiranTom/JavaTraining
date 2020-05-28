@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class Length{
+class InchesToMeters{
 
 	public static void main(String[] args){
 
